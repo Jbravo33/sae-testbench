@@ -1,11 +1,12 @@
-#include <stdio.h>
+#include <stdio.h>  
 #include <iostream>
 //Author: Edgar Tejada
-//Date: 2018-09-24
+// Author: Jose Bravo 
+//Date: 2018-10-11 
 
 int main()
 {
-	printf("Hello world, I am on github!");
+	printf("Hello world, I am Jose Bravo!"); 
 
 	return 0;
 }
